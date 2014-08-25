@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HoloThemer - Settings Support Package</string>
+    <string name="choose_colour">Choose colour for icons down the right in the settings app</string>
+
+    <string-array name="colours">
+        <item name="Red">Red</item>
+        <item name="Yellow">Yellow</item>
+        <item name="Orange">Orange</item>
+        <item name="Green">Green</item>
+        <item name="Blue">Blue</item>
+        <item name="Purple">Purple</item>
+        <item name="Black">Black</item>
+        <item name="Grey">Grey</item>
+        <item name="White">White</item>
+        <item name="l">Android L green</item>
+        <item name="trans">Transparent</item>
+    </string-array>
+
+    <string name="apply">Apply</string>
+    <string name="hex_info">Optionally enter your own HEX code</string>
+    <string name="hex_hint">EG #33ccff</string>
+
+</resources>
